@@ -14,6 +14,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px 10%;
+  background-color: #4c2b36;
 }
 .container ul li {
   display: inline-block;
